@@ -1,6 +1,7 @@
-# Semester Project 2
-
-![image](https://ce.accelr.dev/wp-content/uploads/2022/05/smartmockups_l3ttas00.png | width=200)
+<h1 align="center"> Semester Project 2 </h1>
+<p align="center">
+  <img src ="https://ce.accelr.dev/wp-content/uploads/2022/05/smartmockups_l3ttas00.png" width="500px"/>
+</p>
 
 Create an e-commerce website that has both customer-facing and admin sections. Both sections should be responsive and the website will be populated by a Strapi API supplied by Noroff.
 
