@@ -50,7 +50,7 @@ Allow products to be deleted. Before a product is deleted you must display a con
 
 ## Built With
 
-- [Sass]((https://sass-lang.com/)
+- [Sass](https://sass-lang.com/)
 
 ## Getting Started
 
