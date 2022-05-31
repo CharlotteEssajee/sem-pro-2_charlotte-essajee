@@ -83,7 +83,7 @@ http://127.0.0.1:5503/
 ```
 
 If you want to test the login/admin panel you need to have your own local installation of the Strapi project.<br/>
-[Local Strapi]((https://github.com/NoroffFEU/strapi-sp2)
+[Local Strapi](https://github.com/NoroffFEU/strapi-sp2)
 
 ```
 Follow instructions in .readme
