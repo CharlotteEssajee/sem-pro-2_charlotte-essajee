@@ -62,7 +62,7 @@ Allow products to be deleted. Before a product is deleted you must display a con
 1. Clone the repo:
 
 ```bash
-git clone git@github.com:CharlotteEssajee/sem-pro-2_charlotte-essajee.git
+git clone https://github.com/CharlotteEssajee/sem-pro-2_charlotte-essajee
 ```
 
 2. Install the dependencies:
