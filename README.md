@@ -73,7 +73,7 @@ npm i
 
 ### Running
 
-To run the app, run the following commands:
+To run the app, run the following commands (Example in VS Code):
 
 ```bash
 install live server and go live
