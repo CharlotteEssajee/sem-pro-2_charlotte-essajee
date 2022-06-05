@@ -51,6 +51,8 @@ Allow products to be deleted. Before a product is deleted you must display a con
 
 ## Built With
 
+- HTML
+- Javascript
 - [Sass](https://sass-lang.com/)
 
 ## Getting Started
@@ -104,5 +106,4 @@ Make sure to open a pull request so code can be reviewed.
 Reach out to me!
 
 [My Instagram page](https://instagram.com/essajee)
-
 [My LinkedIn page](https://linkedin.com/in/charlotte-essajee-67aa39226)
